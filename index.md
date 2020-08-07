@@ -4,17 +4,17 @@
 
 ## iPhone 11 PRO
 
-Oryginalny telefon komórkowy iPhone 11 Plus, dziesięciordzeniowy, iOS, 3 GB pamięci RAM 64-256 GB ROM, ekran 5,5 cala, 12 megapikseli, skaner linii papilarnych, 2691 mAh, LTE
+Apple iPhone 11 Pro (64 GB, verde medianoche) [operador bloqueado] + suscripción de operador [Cricket Wireless] (crédito de tarjeta de regalo de Amazon de $ 10 / mes)
 
 ### Dane techniczne
 
-Nazwa marki: Apple
-Model Apple: IPhone 11 Plus 3 GB 64 GB
-Typ baterii: niedostępny
-Przebudzenie pamięci: 64 GB
-Linia produktów: Nie buve w pracy
-System operacyjny: iOS
-Technologia: skaner linii papilarnych
-W trybie aparatu: Pierwszy aparat: 1 rok baterie (mA * h): = <2691 mAh Szybka ładowarka: Adaptacyjne szybkie ładowanie Szybka ładowarka: Zasilanie przez USB Typ telefonu: smartfon Typ ekranu dotykowego: angielski Rosyjski	
+Pantalla OLED Super Retina XDR de 5,8 pulgadas
+Resistente al agua y al polvo (4 metros por hasta 30 minutos, IP68)
+Sistema de triple cámara con cámaras ultra gran angular, gran angular y telefoto de 12 MP; Modo nocturno, modo retrato y video 4K hasta 60 fps
+Cámara frontal TrueDepth de 12MP con modo retrato, video 4K y cámara lenta
+Face ID para autenticación segura y Apple Pay
+Chip A13 Bionic con Neural Engine de tercera generación
+Carga rápida con adaptador de 18 W incluido
+Carga inalambrica
 
-For more details see [Store](http://shorturl.at/dgnxM).
+Para obtener más detalles, consulte [Tienda] (http://shorturl.at/dgnxM).
