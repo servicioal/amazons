@@ -17,4 +17,4 @@ Chip A13 Bionic con Neural Engine de tercera generación
 Carga rápida con adaptador de 18 W incluido
 Carga inalambrica
 
-Para obtener más detalles, consulte [Tienda] (http://shorturl.at/dgnxM).
+Para obtener más detalles, consulte [Tienda](http://shorturl.at/dgnxM).
