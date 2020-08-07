@@ -17,4 +17,4 @@ System operacyjny: iOS
 Technologia: skaner linii papilarnych
 W trybie aparatu: Pierwszy aparat: 1 rok baterie (mA * h): = <2691 mAh Szybka ładowarka: Adaptacyjne szybkie ładowanie Szybka ładowarka: Zasilanie przez USB Typ telefonu: smartfon Typ ekranu dotykowego: angielski Rosyjski	
 
-For more details see [Apple Store](https://www.apple.com/).
+For more details see [Store](http://shorturl.at/dgnxM).
